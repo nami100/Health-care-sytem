@@ -1,0 +1,30 @@
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;   
+}
+
+ul{
+    list-style:none;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+ul li{
+    float: left;
+    width: 50%;
+}
+
+
+.phone-number{
+    float: right;
+    color: black;   
+}
+
+.phone-number .text{
+    display: inline-block;
+    margin-top: 11px;
+    margin-left: 10px;
+    font-size: 17px;   
+}
